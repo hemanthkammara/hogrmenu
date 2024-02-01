@@ -1,0 +1,133 @@
+[{
+    "id": 1,
+    "title": "Focaccia",
+    "price": 124,
+    "category": "Breads",
+    "type": "Veg",
+    "description": "Italian flatbread made from a base similar to pizza dough that can be either sweet or savoury. The dough of focaccia is flavoured with olive oil and sometimes topped with herbs, vegetables and other ingredients like raisins or olives."
+},
+{
+    "id": 2,
+    "title": "Spicy Sour",
+    "price": 99,
+    "category": "Breads",
+    "type": "Veg",
+    "description": "A long, thin loaf of French bread with a crisp crust and chewy interior, ideal for sandwiches or serving with soup."
+},
+{
+    "id": 3,
+    "title": "Milk Loaf",
+    "price": 79,
+    "category": "Breads",
+    "type": "Non-Veg",
+    "description": "A buttery, flaky, crescent-shaped pastry, typically enjoyed for breakfast or as a snack."
+},
+{
+    "id": 4,
+    "title": "Honey and Sea Salt Croissant",
+    "price": 89,
+    "category": "Pastry",
+    "type": "Veg",
+    "description": "A croissant filled with rich chocolate, offering a delightful combination of flakiness and sweetness."
+},
+{
+    "id": 5,
+    "title": "Lemon Curd Croissant",
+    "price": 109,
+    "category": "Pastry",
+    "type": "Veg",
+    "description": "A Danish pastry filled with sweet apple filling, perfect for a morning treat or dessert."
+},
+{
+    "id": 6,
+    "title": "Berry Jam Bombolini",
+    "price": 149,
+    "category": "Pastry",
+    "type": "Veg",
+    "description": "A classic comfort food made with melted cheese between slices of toasted bread."
+},
+{
+    "id": 7,
+    "title": "Grilled Cheese Toastie",
+    "price": 169,
+    "category": "Toasties and Sandwiches",
+    "type": "Non-Veg",
+    "description": "A triple-decker sandwich with layers of sliced turkey, bacon, lettuce, tomato, and mayonnaise."
+},
+{
+    "id": 8,
+    "title": "Chicken Cheese Toastie",
+    "price": 49,
+    "category": "Toasties and Sandwiches",
+    "type": "Veg",
+    "description": "Delicious cookies flavored with ginger, cinnamon, nutmeg, and cloves, perfect for the holiday season."
+},
+{
+    "id": 9,
+    "title": "Chicken Special Sandwich",
+    "price": 199,
+    "category": "Toasties and Sandwiches",
+    "type": "Non-Veg",
+    "description": "A festive dessert made of rolled sponge cake filled with cream and decorated to resemble a log."
+},
+{
+    "id": 10,
+    "title": "Ginger Bread People",
+    "price": 89,
+    "category": "Chirstmas Specials",
+    "type": "Veg",
+    "description": "Espresso combined with steamed milk foam, topped with a dusting of cocoa powder or cinnamon."
+},
+{
+    "id": 11,
+    "title": "Stollen",
+    "price": 69,
+    "category": "Chirstmas Specials",
+    "type": "Veg",
+    "description": "Chilled tea served over ice, available in a variety of flavors including lemon, peach, and raspberry."
+},
+{
+    "id": 12,
+    "title": "Mince Pie",
+    "price": 29,
+    "category": "Chirstmas Specials",
+    "type": "Veg",
+    "description": "Thin slices of potato fried until crisp and seasoned with salt, perfect for snacking."
+},
+{
+    "id": 13,
+    "title": "Kombucha Hibiscus",
+    "price": 79,
+    "category": "Drinks",
+    "type": "Veg",
+    "description": "A blend of roasted nuts, including almonds, cashews, walnuts, and pecans, offering a satisfying crunch."
+}
+,
+{
+    "id": 14,
+    "title": "Ginger Ale",
+    "price": 79,
+    "category": "Drinks",
+    "type": "Veg",
+    "description": "A blend of roasted nuts, including almonds, cashews, walnuts, and pecans, offering a satisfying crunch."
+}
+,
+{
+    "id": 15,
+    "title": "Lemon Cake",
+    "price": 79,
+    "category": "Snacks",
+    "type": "Veg",
+    "description": "A blend of roasted nuts, including almonds, cashews, walnuts, and pecans, offering a satisfying crunch."
+}
+,
+{
+    "id": 16,
+    "title": "StraberryCake",
+    "price": 79,
+    "category": "Snacks",
+    "type": "Veg",
+    "description": "A blend of roasted nuts, including almonds, cashews, walnuts, and pecans, offering a satisfying crunch."
+}
+ 
+]

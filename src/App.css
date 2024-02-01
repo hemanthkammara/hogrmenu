@@ -7,4 +7,6 @@
  margin: auto;
   color: white;
 }
-
+button:hover{
+cursor: pointer;
+}
